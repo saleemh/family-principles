@@ -1,0 +1,12 @@
+name: Spellcheck (non-blocking)
+on: [pull_request]
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Codespell
+        uses: codespell-project/actions-codespell@v2
+        with:
+          path: .
+          ignore_words_list: Hussain
