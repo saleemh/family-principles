@@ -8,10 +8,11 @@ We want everyone to
 
 Rules
 - Complete homework promptly after school, and in advance of deadlines
-- Lights-out is at 8:45pm for ages 6 to 12; 10pm (11pm on Fri and Sat)for ages 13 to 14; and 11pm for ages 15-18. 
-- No personal devices in bedrooms at night. All devices must be in the upstairs vestibule at least 15 minutes before lights-out
+- Lights-out is at 8:45pm for ages 6 to 12; 9:30pm (11pm on Fri and Sat)for ages 13 to 14; and 10pm for ages 15-18. 
+- No personal devices in bedrooms at night. All devices must be in a designated area near the person's roo
+(but outside it) at least 15 minutes before lights-out
 - Maximum of 1 hour of non-school screen time on weekdays after school, only after homework and practice is done
-- No screens during meals
+- No screens, books, etc during meals
 
 Consequence Ladder (and Earning Back)
 - **Most issues:** Reminder → Short pause (5–15 min) → Loss of related privilege (same day) → 24‑hr reduction + make amends.
@@ -21,8 +22,10 @@ Examples of making amends
 - Write a sincere apology (3-5 sentences) and propose a fix
 -  Do a helpful task for the impacted person (e.g., clean their space, take their chore).
 - Contribute time to a family project (organize closet, yard work).
+- Don't bother the victim for a few hours
 
 Family meetings
-- Weekly, Sundays after dinner (30-40 min)
+- Weekly, Sundays before dinner (15-30 min)
 - Topics: review any updates to the rules, discuss issues with the rules and plans for the coming week
+- Address assorted concerns/important things
 
