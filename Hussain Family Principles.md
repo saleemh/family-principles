@@ -20,7 +20,7 @@ Consequence Ladder (and Earning Back)
 
 Examples of making amends
 - Write a sincere apology (3-5 sentences) and propose a fix
--  Do a helpful task for the impacted person (e.g., clean their space, take their chore).
+- Do a helpful task for the impacted person (e.g., clean their space, take their chore).
 - Contribute time to a family project (organize closet, yard work).
 - Don't bother the victim for a few hours
 
