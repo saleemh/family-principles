@@ -8,7 +8,7 @@ We want everyone to
 
 Rules
 - Complete homework promptly after school, and in advance of deadlines
-- Lights-out is at 8:45pm for ages 6 to 12; 9:30pm (11pm on Fri and Sat)for ages 13 to 14; and 10pm for ages 15-18. 
+- Lights-out is at 8:45pm for ages 6 to 12; 9:30pm (11pm on Fri and Sat)for ages 13 to 14; and 10pm for ages 15-18. Once a week people can extend their lights out by 1 hour
 - No personal devices in bedrooms at night. All devices must be in a designated area near the person's roo
 (but outside it) at least 15 minutes before lights-out
 - Maximum of 1 hour of non-school screen time on weekdays after school, only after homework and practice is done
@@ -25,7 +25,7 @@ Examples of making amends
 - Don't bother the victim for a few hours
 
 Family meetings
-- Weekly, Sundays before dinner (15-30 min)
+- Weekly, Sundays after dinner (15-30 min)
 - Topics: review any updates to the rules, discuss issues with the rules and plans for the coming week
 - Address assorted concerns/important things
 
